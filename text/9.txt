@@ -1,0 +1,40 @@
+```
+             _  _  ____  ____    __   
+            ( \/ )( ___)(  _ \  /__\  
+             )  (  )__)  )   / /(__)\ 
+            (_/\_)(____)(_)\_)(__)(__)
+
+〔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ぽ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬〕
+  Welcome to Xera Selfbot!
+  Use +help <page_number> to see commands for that category.
+〔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬〕
+
+ [1]  +uc <text>       - Converts the lowercase to UPPER case.
+ [2]  +lc <text>       - Converts the lowercase to lower case.
+ [3]  +sc <text>       - Converts the text to Sentence case.
+ [4]  +tc <text>       - Converts the text to Title case.
+ [5]  +ac <text>       - Converts the text to aLtErNaTe case.
+ [6]  +ic <text>       - Converts the text to iNVERSE case.
+ [7]  +asci <text>     - Change the text to ASCI.
+ [8]  +empty           - Sends the empty message.
+ [9]  +reverse <text>  - Reverses the text and sends it.
+ [10] +alphabet        - Edits the message with every letter in the alphabet.
+ [11] +leet <text>     - Sends the text in a language only leet hackers can understand.
+ [12] +bold <text>     - Sends the text in bold.
+ [13] +strike <text>   - Adds strikethrough effect to text.
+ [14] +italic <text>   - Sends the text in italicized font.
+ [15] +spoiler <text>  - Sends the text as a spoiler.
+ [16] +lspoiler <text> - Same as spoiler but spoils every letter separately.
+ [17] +devowel <text>  - Sends the text without the vowels.
+ [18] +edit <text>     - Makes an edit animation with the text.
+ [19] +edit1 <text>    - Makes an edit animation with the text but prints the whole word.
+ [20] +emojify <text>  - Sends the text as Discord emojis.
+ [21] +shrug           - Sends a shrug.
+ [22] +lenny           - Sends a lenny.
+ [23] +tableflip       - Sends a tableflip.
+ [24] +unflip          - Sends an unflip.
+ [25] +clap <text>     - Replaces spaces in the text with clap emojis.
+ [26] +del <text>      - Sends the text and quickly deletes it after a second.
+
+〔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬9/10▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬〕
+```

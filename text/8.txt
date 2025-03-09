@@ -1,0 +1,34 @@
+```ansi
+[2;32m[1;32m             _  _  ____  ____    __   
+            ( \/ )( ___)(  _ \  /__\  
+             )  (  )__)  )   / /(__)\ 
+            (_/\_)(____)(_)\_)(__)(__)
+[0m[2;32m[0m
+[2;35m〔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[2;33m[1;33mぽ[0m[2;33m[0m[2;35m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬〕[0m
+ [2;35m↳[0m [2;33mWelcome to [1;33mXera Selfbot[0m[2;33m![0m
+ [2;36mUse [2;34m[1;34m+[0m[2;34m[0m[2;36mhelp [2;34m[1;34m<[0m[2;34m[0m[2;36mpage_number[2;34m[1;34m>[0m[2;34m[0m[2;36m to see commands for that category.[0m
+[2;35m〔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬〕[0m
+
+[2;34m[1;34m[0m[2;34m[0m[0;2m[0;2m[0;34m[1;34m[0m[0;34m[0m[0;2m[0;2m [1]  +f1  <text>  – Sends text in this font "𝐗𝐞𝐫𝐚"
+ [2]  +f2  <text>  – Sends text in this font "𝔛𝔢𝔯𝔞"
+ [3]  +f3  <text>  – Sends text in this font "𝖃𝖊𝖗𝖆"
+ [4]  +f4  <text>  – Sends text in this font "𝓧𝓮𝓻𝓪"
+ [5]  +f5  <text>  – Sends text in this font "𝒳𝑒𝓇𝒶"
+ [6]  +f6  <text>  – Sends text in this font "𝕏𝕖𝕣𝕒"
+ [7]  +f7  <text>  – Sends text in this font "Ｘｅｒａ"
+ [8]  +f8  <text>  – Sends text in this font "xᴇʀᴀ"
+ [9]  +f9  <text>  – Sends text in this font "🅇🄴🅁🄰"
+ [10] +f10 <text>  – Sends text in this font "🆇🅴🆁🅰"
+ [11] +f11 <text>  – Sends text in this font "ˣᵉʳᵃ"
+ [12] +f12 <text>  – Sends text in this font "Ⓧⓔⓡⓐ"
+ [13] +f13 <text>  – Sends text in this font "אєгค"
+ [14] +f14 <text>  – Sends text in this font "Xҽɾα"
+ [15] +f15 <text>  – Sends text in this font "Ӽɛʀǟ"
+ [16] +f16 <text>  – Sends text in this font "ጀᏋᏒᏗ"
+ [17] +f17 <text>  – Sends text in this font "ҳɛཞą"
+ [18] +f18 <text>  – Sends text in this font "xērค"
+ [19] +f19 <text>  – Sends text in this font "𝐗𝐞𝐫𝐚"
+ [20] +f20 <text>  – Sends text in this font "𝗫𝗲𝗿𝗮"[0m[0m[0m[0m[2;34m[1;34m[1;34m[0m[1;34m[0m[2;34m[0m
+
+[2;35m〔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬[2;33m[0m[2;35m[2;33m[1;33m8/10[0m[2;33m[0m[2;35m[2;33m[1;33m[0m[2;33m[0m[2;35m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬〕[0m
+```
