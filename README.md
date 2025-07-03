@@ -41,7 +41,7 @@ Using Xera Selfbot is straightforward. Follow these steps to get started:
 ## Important Information ⚠️
 
 - **Paid Access** 💳: Xera Selfbot is a premium tool, and users must pay to access its features. Unauthorized use is strictly prohibited.
-- **Community Support** 👥: Join our community for updates, support, and discussions: [Discord Community](https://discord.com/invite/nCyKKRAC9u).
+- **Community Support** 👥: Join our community for updates, support, and discussions: [Discord Community](https://discord.gg/WaepYSM6tt).
 - **Disclaimer** 🛑: The developer and community are not responsible for any actions taken by users. Use this selfbot at your own risk and adhere to Discord's terms of service.
 
 Xera Selfbot is designed for those who want to push the boundaries of Discord functionality. Enjoy the power and flexibility it offers, but always remember to use it responsibly! 🎉
